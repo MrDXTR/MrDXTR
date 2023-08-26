@@ -5,7 +5,7 @@
 ### <div align="center">I am Manav 🧙‍♂️</div>  
   
 
-- **🏫B.Tech Final Year Student, Filled with curiosity**  
+- **🏫B.Tech Final Year Student**  
   
 
 - 🔐 Unravelling digital enigmas as a Cybersecurity and Networking enthusiast  
