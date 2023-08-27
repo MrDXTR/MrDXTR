@@ -22,6 +22,15 @@
 
 <br/>
 
+
+<div align = 'center' >
+  <h2> Click Here To See My Resume </h2>
+ <a href="https://drive.google.com/file/d/1eOA9J-aFeWsmgYzw-Wr88XiuF3L4q4vY/view">
+ <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
+ </a>
+</div>
+
+
 ## Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="35" /></a>  
