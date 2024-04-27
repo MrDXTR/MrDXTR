@@ -1,5 +1,5 @@
   
-### <div align="center">Hey 👋 Nice to see you here 👽</div>  
+### <div align="center">Hey 👋 Nice to see you here   👽</div>  
   
 
 ### <div align="center">I am Manav 🧙‍♂️</div>  
