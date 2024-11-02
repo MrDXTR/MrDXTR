@@ -92,8 +92,6 @@
 </div>  
 
 
-## Recent Blog Posts  
-  
 
 <br/>  
 
