@@ -2,7 +2,7 @@
   
 ### <div align="center">I am Manav 🧙‍♂️</div>  
   
-- **🎓 B.Tech | Computer Science Graduate **  
+- 🎓 B.Tech | Computer Science Graduate
   
 - 💻 Full-Stack Software Engineer specializing in web development and innovative tech solutions  
   
