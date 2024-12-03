@@ -3,9 +3,13 @@
 ### <div align="center">I am Manav 🧙‍♂️</div>
 
 - 🎓 B.Tech | Computer Science Graduate
+
 - 💻 Full-Stack Software Engineer specializing in web development and innovative tech solutions
+
 - 🚀 Building scalable applications with modern web technologies
+
 - 🔐 Cybersecurity and Networking enthusiast unravelling digital enigmas
+
 - ⚽ Balancing professional growth with a passion for sports like football ⚽ and basketball 🏀
 
 <br/>
