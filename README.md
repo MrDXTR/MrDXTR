@@ -1,6 +1,6 @@
 ### <div align="center">Hey 👋 Nice to see you here 👽</div>
 
-### <div align="center">I am Manav 🧙‍♂️</div>
+### <div align="center">I am <a href="https://manavchillar.vercel.app/">Manav 🧙‍♂️</a></div>
 
 - 🎓 B.Tech | Computer Science Graduate
 
