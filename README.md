@@ -1,24 +1,26 @@
-### <div align="center">Hey 👋 Nice to see you here 👽</div>
+### <div align="center">Hey 👋 Welcome to my GitHub Space! 🚀</div>
 
-### <div align="center">I am <a href="https://manavchillar.vercel.app/">Manav 🧙‍♂️</a></div>
+### <div align="center">I'm <a href="https://manavchillar.vercel.app/">Manav</a> - Full Stack Developer & Tech Enthusiast 👨‍💻</div>
 
-- 🎓 B.Tech | Computer Science Graduate
+- 🎓 Computer Science Graduate with a passion for building innovative solutions
 
-- 💻 Full-Stack Software Engineer specializing in web development and innovative tech solutions
+- 💻 Full-Stack Software Engineer crafting seamless web experiences with modern technologies
 
-- 🚀 Building scalable applications with modern web technologies
+- 🚀 Focused on developing scalable, performant applications and microservices
 
-- 🔐 Cybersecurity and Networking enthusiast unravelling digital enigmas
+- 🔐 Cybersecurity enthusiast with expertise in network security and penetration testing
 
-- ⚽ Balancing professional growth with a passion for sports like football ⚽ and basketball 🏀
+- 🌱 Constantly learning and exploring new technologies in the ever-evolving tech landscape
+
+- ⚡ When I'm not coding, you'll find me on the football ⚽ field or basketball 🏀 court
 
 <br/>
 
-<div align = 'center' >
-  <h2> Check Out My Resume </h2>
- <a href="https://drive.google.com/file/d/1wCKazMJoxWU6LerFNRByO0ORTJ09zeGA/view">
- <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
- </a>
+<div align="center">
+  <h2>📄 Professional Journey</h2>
+  <a href="https://drive.google.com/file/d/1wCKazMJoxWU6LerFNRByO0ORTJ09zeGA/view">
+    <img src="https://img.shields.io/badge/View_Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="160" height="50"/>
+  </a>
 </div>
 
 ## Languages
@@ -78,4 +80,24 @@
 </a>
 </div>
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uof6fgzv18a30ymcvxizbk8h2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" /></div>
+<br/>
+<br/>
+
+<div align="center">
+  <h2>🤝 Let's Connect!</h2>
+</div>
+
+<div align="center">
+<i>Let's build something amazing together! 💡</i>
+</div>
+
+<br/>
+
+### <div align="center">🎵 Currently Vibing To</div>
+
+<br/>
+<div align="center" style="display: flex; flex-direction: row; gap: 7rem;">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uof6fgzv18a30ymcvxizbk8h2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+  
+  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001334.9803936239b54de0a28d69e31ab3a268.2030" alt="Apple Music GitHub profile" />
+</div>
