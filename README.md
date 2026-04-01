@@ -18,7 +18,7 @@
 
 <div align="center">
   <h2>📄 Professional Journey</h2>
-  <a href="https://manavchillar.vercel.app/resume">
+  <a href="https://manavchillar.xyz/resume">
     <img src="https://img.shields.io/badge/View_Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="160" height="40"/>
   </a>
 </div>
